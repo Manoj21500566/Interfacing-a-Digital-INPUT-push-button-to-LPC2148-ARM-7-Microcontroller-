@@ -145,11 +145,15 @@ int main(void)
 
 ~~~
 ### Output screen shots :
-    ### BEFORE SWITCHING ON LED:
+ BEFORE SWITCHING ON LED:
+ 
+ 
     ![1](https://user-images.githubusercontent.com/94588708/201516420-feb784ed-f879-4021-9862-43c7a0b17874.png)
 
     
-    ### AFTER SWITCHING ON LED:
+  AFTER SWITCHING ON LED:
+  
+  
     ![2](https://user-images.githubusercontent.com/94588708/201516424-99d263e5-f49a-4a51-9467-168066ec28d2.png)
 
     
