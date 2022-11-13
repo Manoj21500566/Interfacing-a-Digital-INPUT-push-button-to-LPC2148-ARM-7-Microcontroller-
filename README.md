@@ -147,14 +147,14 @@ int main(void)
 ### Output screen shots :
  BEFORE SWITCHING ON LED:
  
- 
-    ![1](https://user-images.githubusercontent.com/94588708/201516420-feb784ed-f879-4021-9862-43c7a0b17874.png)
+ ![1](https://user-images.githubusercontent.com/94588708/201516520-68a912fb-485c-4f34-9d3d-d31b2b89c46e.png)
 
+    
     
   AFTER SWITCHING ON LED:
   
-  
-    ![2](https://user-images.githubusercontent.com/94588708/201516424-99d263e5-f49a-4a51-9467-168066ec28d2.png)
+  ![2](https://user-images.githubusercontent.com/94588708/201516530-420ea9de-a7d6-40dc-a10b-e5246382846a.png)
+
 
     
 
